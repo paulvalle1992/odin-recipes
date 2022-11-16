@@ -1,7 +1,38 @@
-div {
-    color: white;
-    background-color: black;
+
+h1, h2 {
+    color: yellow;
+    font-weight: 800;
+    text-align: center;
+
 }
-p {
-    color: red;
+h2 {
+ color: orange;
+}
+* {
+    background-color: rgb(110, 56, 56);
+    color: white;
+    
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:400px;
+    height: 400px;
+}
+
+.mashed {
+    width: auto;
+    height: 400px;
+}
+
+.link1 {
+    color: yellow;
+}
+.link2 {
+    color: orange;
+}
+p, ol, ul {
+    font-size: 18px;
 }
